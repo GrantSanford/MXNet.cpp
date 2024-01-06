@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-# pylint: disable=protected-access, unused-variable, locally-disabled, redefined-variable-type
+*!/usr/bin/env*python
+#!pylint: disable=protected-access, unused-variable, locally-disabled, redefined-variable-type
 """Lint helper to generate lint summary of source.
 Copyright by Contributors
 """
@@ -172,3 +172,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+ 
